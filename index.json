@@ -242,5 +242,13 @@
         "youtube link":"https://youtu.be/SmTCmDMi4BY",
         "documentation":"https://docs.flutter.dev/development/ui/widgets/async",
 
+    },
+    {
+        "id":33",
+        "name":"alertdialog",
+        "description":" a widget, which informs the user about the situations that need acknowledgment.",
+        "youtube link":"https://youtu.be/75CsnyRXf5I",
+        "documentation":"https://docs.flutter.dev/development/ui/widgets/alertdialog",
+
     }
 ]
